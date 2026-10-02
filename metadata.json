@@ -1,0 +1,6 @@
+{
+  "name": "WCS Social Commerce - Facebook to WhatsApp Commerce",
+  "description": "Multi-tenant social commerce system connecting Facebook promotions to automated WhatsApp order workflows, GPS location capture, payment slip verification, and courier dispatch.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
